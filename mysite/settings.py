@@ -25,7 +25,7 @@ SECRET_KEY = '2q8&911he)gek7dx1o1r4j0va0k2^p0(3$^_b2rahfkvuub)7&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['34.197.221.164']
+ALLOWED_HOSTS = ['34.197.221.164', 'support.getdel.com']
 
 
 # Application definition
